@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+frontend/node_modules/
+frontend/dist/
+
+backend/car_price_model.pkl
+model/car_price_model.pkl
+
+.DS_Store
+Thumbs.db
